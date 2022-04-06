@@ -1,0 +1,3000 @@
+second: 1
+Comet: 14, True
+Dancer: 16, True
+second: 2
+Comet: 28, True
+Dancer: 32, True
+second: 3
+Comet: 42, True
+Dancer: 48, True
+second: 4
+Comet: 56, True
+Dancer: 64, True
+second: 5
+Comet: 70, True
+Dancer: 80, True
+second: 6
+Comet: 84, True
+Dancer: 96, True
+second: 7
+Comet: 98, True
+Dancer: 112, True
+second: 8
+Comet: 112, True
+Dancer: 128, True
+second: 9
+Comet: 126, True
+Dancer: 144, True
+second: 10
+Comet: 140, True
+Dancer: 160, True
+second: 11
+Comet: 140, False
+Dancer: 176, True
+second: 12
+Comet: 140, False
+Dancer: 176, False
+second: 13
+Comet: 140, False
+Dancer: 176, False
+second: 14
+Comet: 140, False
+Dancer: 176, False
+second: 15
+Comet: 140, False
+Dancer: 176, False
+second: 16
+Comet: 140, False
+Dancer: 176, False
+second: 17
+Comet: 140, False
+Dancer: 176, False
+second: 18
+Comet: 140, False
+Dancer: 176, False
+second: 19
+Comet: 140, False
+Dancer: 176, False
+second: 20
+Comet: 140, False
+Dancer: 176, False
+second: 21
+Comet: 140, False
+Dancer: 176, False
+second: 22
+Comet: 140, False
+Dancer: 176, False
+second: 23
+Comet: 140, False
+Dancer: 176, False
+second: 24
+Comet: 140, False
+Dancer: 176, False
+second: 25
+Comet: 140, False
+Dancer: 176, False
+second: 26
+Comet: 140, False
+Dancer: 176, False
+second: 27
+Comet: 140, False
+Dancer: 176, False
+second: 28
+Comet: 140, False
+Dancer: 176, False
+second: 29
+Comet: 140, False
+Dancer: 176, False
+second: 30
+Comet: 140, False
+Dancer: 176, False
+second: 31
+Comet: 140, False
+Dancer: 176, False
+second: 32
+Comet: 140, False
+Dancer: 176, False
+second: 33
+Comet: 140, False
+Dancer: 176, False
+second: 34
+Comet: 140, False
+Dancer: 176, False
+second: 35
+Comet: 140, False
+Dancer: 176, False
+second: 36
+Comet: 140, False
+Dancer: 176, False
+second: 37
+Comet: 140, False
+Dancer: 176, False
+second: 38
+Comet: 140, False
+Dancer: 176, False
+second: 39
+Comet: 140, False
+Dancer: 176, False
+second: 40
+Comet: 140, False
+Dancer: 176, False
+second: 41
+Comet: 140, False
+Dancer: 176, False
+second: 42
+Comet: 140, False
+Dancer: 176, False
+second: 43
+Comet: 140, False
+Dancer: 176, False
+second: 44
+Comet: 140, False
+Dancer: 176, False
+second: 45
+Comet: 140, False
+Dancer: 176, False
+second: 46
+Comet: 140, False
+Dancer: 176, False
+second: 47
+Comet: 140, False
+Dancer: 176, False
+second: 48
+Comet: 140, False
+Dancer: 176, False
+second: 49
+Comet: 140, False
+Dancer: 176, False
+second: 50
+Comet: 140, False
+Dancer: 176, False
+second: 51
+Comet: 140, False
+Dancer: 176, False
+second: 52
+Comet: 140, False
+Dancer: 176, False
+second: 53
+Comet: 140, False
+Dancer: 176, False
+second: 54
+Comet: 140, False
+Dancer: 176, False
+second: 55
+Comet: 140, False
+Dancer: 176, False
+second: 56
+Comet: 140, False
+Dancer: 176, False
+second: 57
+Comet: 140, False
+Dancer: 176, False
+second: 58
+Comet: 140, False
+Dancer: 176, False
+second: 59
+Comet: 140, False
+Dancer: 176, False
+second: 60
+Comet: 140, False
+Dancer: 176, False
+second: 61
+Comet: 140, False
+Dancer: 176, False
+second: 62
+Comet: 140, False
+Dancer: 176, False
+second: 63
+Comet: 140, False
+Dancer: 176, False
+second: 64
+Comet: 140, False
+Dancer: 176, False
+second: 65
+Comet: 140, False
+Dancer: 176, False
+second: 66
+Comet: 140, False
+Dancer: 176, False
+second: 67
+Comet: 140, False
+Dancer: 176, False
+second: 68
+Comet: 140, False
+Dancer: 176, False
+second: 69
+Comet: 140, False
+Dancer: 176, False
+second: 70
+Comet: 140, False
+Dancer: 176, False
+second: 71
+Comet: 140, False
+Dancer: 176, False
+second: 72
+Comet: 140, False
+Dancer: 176, False
+second: 73
+Comet: 140, False
+Dancer: 176, False
+second: 74
+Comet: 140, False
+Dancer: 176, False
+second: 75
+Comet: 140, False
+Dancer: 176, False
+second: 76
+Comet: 140, False
+Dancer: 176, False
+second: 77
+Comet: 140, False
+Dancer: 176, False
+second: 78
+Comet: 140, False
+Dancer: 176, False
+second: 79
+Comet: 140, False
+Dancer: 176, False
+second: 80
+Comet: 140, False
+Dancer: 176, False
+second: 81
+Comet: 140, False
+Dancer: 176, False
+second: 82
+Comet: 140, False
+Dancer: 176, False
+second: 83
+Comet: 140, False
+Dancer: 176, False
+second: 84
+Comet: 140, False
+Dancer: 176, False
+second: 85
+Comet: 140, False
+Dancer: 176, False
+second: 86
+Comet: 140, False
+Dancer: 176, False
+second: 87
+Comet: 140, False
+Dancer: 176, False
+second: 88
+Comet: 140, False
+Dancer: 176, False
+second: 89
+Comet: 140, False
+Dancer: 176, False
+second: 90
+Comet: 140, False
+Dancer: 176, False
+second: 91
+Comet: 140, False
+Dancer: 176, False
+second: 92
+Comet: 140, False
+Dancer: 176, False
+second: 93
+Comet: 140, False
+Dancer: 176, False
+second: 94
+Comet: 140, False
+Dancer: 176, False
+second: 95
+Comet: 140, False
+Dancer: 176, False
+second: 96
+Comet: 140, False
+Dancer: 176, False
+second: 97
+Comet: 140, False
+Dancer: 176, False
+second: 98
+Comet: 140, False
+Dancer: 176, False
+second: 99
+Comet: 140, False
+Dancer: 176, False
+second: 100
+Comet: 140, False
+Dancer: 176, False
+second: 101
+Comet: 140, False
+Dancer: 176, False
+second: 102
+Comet: 140, False
+Dancer: 176, False
+second: 103
+Comet: 140, False
+Dancer: 176, False
+second: 104
+Comet: 140, False
+Dancer: 176, False
+second: 105
+Comet: 140, False
+Dancer: 176, False
+second: 106
+Comet: 140, False
+Dancer: 176, False
+second: 107
+Comet: 140, False
+Dancer: 176, False
+second: 108
+Comet: 140, False
+Dancer: 176, False
+second: 109
+Comet: 140, False
+Dancer: 176, False
+second: 110
+Comet: 140, False
+Dancer: 176, False
+second: 111
+Comet: 140, False
+Dancer: 176, False
+second: 112
+Comet: 140, False
+Dancer: 176, False
+second: 113
+Comet: 140, False
+Dancer: 176, False
+second: 114
+Comet: 140, False
+Dancer: 176, False
+second: 115
+Comet: 140, False
+Dancer: 176, False
+second: 116
+Comet: 140, False
+Dancer: 176, False
+second: 117
+Comet: 140, False
+Dancer: 176, False
+second: 118
+Comet: 140, False
+Dancer: 176, False
+second: 119
+Comet: 140, False
+Dancer: 176, False
+second: 120
+Comet: 140, False
+Dancer: 176, False
+second: 121
+Comet: 140, False
+Dancer: 176, False
+second: 122
+Comet: 140, False
+Dancer: 176, False
+second: 123
+Comet: 140, False
+Dancer: 176, False
+second: 124
+Comet: 140, False
+Dancer: 176, False
+second: 125
+Comet: 140, False
+Dancer: 176, False
+second: 126
+Comet: 140, False
+Dancer: 176, False
+second: 127
+Comet: 140, False
+Dancer: 176, False
+second: 128
+Comet: 140, False
+Dancer: 176, False
+second: 129
+Comet: 140, False
+Dancer: 176, False
+second: 130
+Comet: 140, False
+Dancer: 176, False
+second: 131
+Comet: 140, False
+Dancer: 176, False
+second: 132
+Comet: 140, False
+Dancer: 176, False
+second: 133
+Comet: 140, False
+Dancer: 176, False
+second: 134
+Comet: 140, False
+Dancer: 176, False
+second: 135
+Comet: 140, False
+Dancer: 176, False
+second: 136
+Comet: 140, False
+Dancer: 176, False
+second: 137
+Comet: 140, False
+Dancer: 176, False
+second: 138
+Comet: 154, True
+Dancer: 176, False
+second: 139
+Comet: 168, True
+Dancer: 176, False
+second: 140
+Comet: 182, True
+Dancer: 176, False
+second: 141
+Comet: 196, True
+Dancer: 176, False
+second: 142
+Comet: 210, True
+Dancer: 176, False
+second: 143
+Comet: 224, True
+Dancer: 176, False
+second: 144
+Comet: 238, True
+Dancer: 176, False
+second: 145
+Comet: 252, True
+Dancer: 176, False
+second: 146
+Comet: 266, True
+Dancer: 176, False
+second: 147
+Comet: 280, True
+Dancer: 176, False
+second: 148
+Comet: 280, False
+Dancer: 176, False
+second: 149
+Comet: 280, False
+Dancer: 176, False
+second: 150
+Comet: 280, False
+Dancer: 176, False
+second: 151
+Comet: 280, False
+Dancer: 176, False
+second: 152
+Comet: 280, False
+Dancer: 176, False
+second: 153
+Comet: 280, False
+Dancer: 176, False
+second: 154
+Comet: 280, False
+Dancer: 176, False
+second: 155
+Comet: 280, False
+Dancer: 176, False
+second: 156
+Comet: 280, False
+Dancer: 176, False
+second: 157
+Comet: 280, False
+Dancer: 176, False
+second: 158
+Comet: 280, False
+Dancer: 176, False
+second: 159
+Comet: 280, False
+Dancer: 176, False
+second: 160
+Comet: 280, False
+Dancer: 176, False
+second: 161
+Comet: 280, False
+Dancer: 176, False
+second: 162
+Comet: 280, False
+Dancer: 176, False
+second: 163
+Comet: 280, False
+Dancer: 176, False
+second: 164
+Comet: 280, False
+Dancer: 176, False
+second: 165
+Comet: 280, False
+Dancer: 176, False
+second: 166
+Comet: 280, False
+Dancer: 176, False
+second: 167
+Comet: 280, False
+Dancer: 176, False
+second: 168
+Comet: 280, False
+Dancer: 176, False
+second: 169
+Comet: 280, False
+Dancer: 176, False
+second: 170
+Comet: 280, False
+Dancer: 176, False
+second: 171
+Comet: 280, False
+Dancer: 176, False
+second: 172
+Comet: 280, False
+Dancer: 176, False
+second: 173
+Comet: 280, False
+Dancer: 176, False
+second: 174
+Comet: 280, False
+Dancer: 192, True
+second: 175
+Comet: 280, False
+Dancer: 208, True
+second: 176
+Comet: 280, False
+Dancer: 224, True
+second: 177
+Comet: 280, False
+Dancer: 240, True
+second: 178
+Comet: 280, False
+Dancer: 256, True
+second: 179
+Comet: 280, False
+Dancer: 272, True
+second: 180
+Comet: 280, False
+Dancer: 288, True
+second: 181
+Comet: 280, False
+Dancer: 304, True
+second: 182
+Comet: 280, False
+Dancer: 320, True
+second: 183
+Comet: 280, False
+Dancer: 336, True
+second: 184
+Comet: 280, False
+Dancer: 352, True
+second: 185
+Comet: 280, False
+Dancer: 352, False
+second: 186
+Comet: 280, False
+Dancer: 352, False
+second: 187
+Comet: 280, False
+Dancer: 352, False
+second: 188
+Comet: 280, False
+Dancer: 352, False
+second: 189
+Comet: 280, False
+Dancer: 352, False
+second: 190
+Comet: 280, False
+Dancer: 352, False
+second: 191
+Comet: 280, False
+Dancer: 352, False
+second: 192
+Comet: 280, False
+Dancer: 352, False
+second: 193
+Comet: 280, False
+Dancer: 352, False
+second: 194
+Comet: 280, False
+Dancer: 352, False
+second: 195
+Comet: 280, False
+Dancer: 352, False
+second: 196
+Comet: 280, False
+Dancer: 352, False
+second: 197
+Comet: 280, False
+Dancer: 352, False
+second: 198
+Comet: 280, False
+Dancer: 352, False
+second: 199
+Comet: 280, False
+Dancer: 352, False
+second: 200
+Comet: 280, False
+Dancer: 352, False
+second: 201
+Comet: 280, False
+Dancer: 352, False
+second: 202
+Comet: 280, False
+Dancer: 352, False
+second: 203
+Comet: 280, False
+Dancer: 352, False
+second: 204
+Comet: 280, False
+Dancer: 352, False
+second: 205
+Comet: 280, False
+Dancer: 352, False
+second: 206
+Comet: 280, False
+Dancer: 352, False
+second: 207
+Comet: 280, False
+Dancer: 352, False
+second: 208
+Comet: 280, False
+Dancer: 352, False
+second: 209
+Comet: 280, False
+Dancer: 352, False
+second: 210
+Comet: 280, False
+Dancer: 352, False
+second: 211
+Comet: 280, False
+Dancer: 352, False
+second: 212
+Comet: 280, False
+Dancer: 352, False
+second: 213
+Comet: 280, False
+Dancer: 352, False
+second: 214
+Comet: 280, False
+Dancer: 352, False
+second: 215
+Comet: 280, False
+Dancer: 352, False
+second: 216
+Comet: 280, False
+Dancer: 352, False
+second: 217
+Comet: 280, False
+Dancer: 352, False
+second: 218
+Comet: 280, False
+Dancer: 352, False
+second: 219
+Comet: 280, False
+Dancer: 352, False
+second: 220
+Comet: 280, False
+Dancer: 352, False
+second: 221
+Comet: 280, False
+Dancer: 352, False
+second: 222
+Comet: 280, False
+Dancer: 352, False
+second: 223
+Comet: 280, False
+Dancer: 352, False
+second: 224
+Comet: 280, False
+Dancer: 352, False
+second: 225
+Comet: 280, False
+Dancer: 352, False
+second: 226
+Comet: 280, False
+Dancer: 352, False
+second: 227
+Comet: 280, False
+Dancer: 352, False
+second: 228
+Comet: 280, False
+Dancer: 352, False
+second: 229
+Comet: 280, False
+Dancer: 352, False
+second: 230
+Comet: 280, False
+Dancer: 352, False
+second: 231
+Comet: 280, False
+Dancer: 352, False
+second: 232
+Comet: 280, False
+Dancer: 352, False
+second: 233
+Comet: 280, False
+Dancer: 352, False
+second: 234
+Comet: 280, False
+Dancer: 352, False
+second: 235
+Comet: 280, False
+Dancer: 352, False
+second: 236
+Comet: 280, False
+Dancer: 352, False
+second: 237
+Comet: 280, False
+Dancer: 352, False
+second: 238
+Comet: 280, False
+Dancer: 352, False
+second: 239
+Comet: 280, False
+Dancer: 352, False
+second: 240
+Comet: 280, False
+Dancer: 352, False
+second: 241
+Comet: 280, False
+Dancer: 352, False
+second: 242
+Comet: 280, False
+Dancer: 352, False
+second: 243
+Comet: 280, False
+Dancer: 352, False
+second: 244
+Comet: 280, False
+Dancer: 352, False
+second: 245
+Comet: 280, False
+Dancer: 352, False
+second: 246
+Comet: 280, False
+Dancer: 352, False
+second: 247
+Comet: 280, False
+Dancer: 352, False
+second: 248
+Comet: 280, False
+Dancer: 352, False
+second: 249
+Comet: 280, False
+Dancer: 352, False
+second: 250
+Comet: 280, False
+Dancer: 352, False
+second: 251
+Comet: 280, False
+Dancer: 352, False
+second: 252
+Comet: 280, False
+Dancer: 352, False
+second: 253
+Comet: 280, False
+Dancer: 352, False
+second: 254
+Comet: 280, False
+Dancer: 352, False
+second: 255
+Comet: 280, False
+Dancer: 352, False
+second: 256
+Comet: 280, False
+Dancer: 352, False
+second: 257
+Comet: 280, False
+Dancer: 352, False
+second: 258
+Comet: 280, False
+Dancer: 352, False
+second: 259
+Comet: 280, False
+Dancer: 352, False
+second: 260
+Comet: 280, False
+Dancer: 352, False
+second: 261
+Comet: 280, False
+Dancer: 352, False
+second: 262
+Comet: 280, False
+Dancer: 352, False
+second: 263
+Comet: 280, False
+Dancer: 352, False
+second: 264
+Comet: 280, False
+Dancer: 352, False
+second: 265
+Comet: 280, False
+Dancer: 352, False
+second: 266
+Comet: 280, False
+Dancer: 352, False
+second: 267
+Comet: 280, False
+Dancer: 352, False
+second: 268
+Comet: 280, False
+Dancer: 352, False
+second: 269
+Comet: 280, False
+Dancer: 352, False
+second: 270
+Comet: 280, False
+Dancer: 352, False
+second: 271
+Comet: 280, False
+Dancer: 352, False
+second: 272
+Comet: 280, False
+Dancer: 352, False
+second: 273
+Comet: 280, False
+Dancer: 352, False
+second: 274
+Comet: 280, False
+Dancer: 352, False
+second: 275
+Comet: 294, True
+Dancer: 352, False
+second: 276
+Comet: 308, True
+Dancer: 352, False
+second: 277
+Comet: 322, True
+Dancer: 352, False
+second: 278
+Comet: 336, True
+Dancer: 352, False
+second: 279
+Comet: 350, True
+Dancer: 352, False
+second: 280
+Comet: 364, True
+Dancer: 352, False
+second: 281
+Comet: 378, True
+Dancer: 352, False
+second: 282
+Comet: 392, True
+Dancer: 352, False
+second: 283
+Comet: 406, True
+Dancer: 352, False
+second: 284
+Comet: 420, True
+Dancer: 352, False
+second: 285
+Comet: 420, False
+Dancer: 352, False
+second: 286
+Comet: 420, False
+Dancer: 352, False
+second: 287
+Comet: 420, False
+Dancer: 352, False
+second: 288
+Comet: 420, False
+Dancer: 352, False
+second: 289
+Comet: 420, False
+Dancer: 352, False
+second: 290
+Comet: 420, False
+Dancer: 352, False
+second: 291
+Comet: 420, False
+Dancer: 352, False
+second: 292
+Comet: 420, False
+Dancer: 352, False
+second: 293
+Comet: 420, False
+Dancer: 352, False
+second: 294
+Comet: 420, False
+Dancer: 352, False
+second: 295
+Comet: 420, False
+Dancer: 352, False
+second: 296
+Comet: 420, False
+Dancer: 352, False
+second: 297
+Comet: 420, False
+Dancer: 352, False
+second: 298
+Comet: 420, False
+Dancer: 352, False
+second: 299
+Comet: 420, False
+Dancer: 352, False
+second: 300
+Comet: 420, False
+Dancer: 352, False
+second: 301
+Comet: 420, False
+Dancer: 352, False
+second: 302
+Comet: 420, False
+Dancer: 352, False
+second: 303
+Comet: 420, False
+Dancer: 352, False
+second: 304
+Comet: 420, False
+Dancer: 352, False
+second: 305
+Comet: 420, False
+Dancer: 352, False
+second: 306
+Comet: 420, False
+Dancer: 352, False
+second: 307
+Comet: 420, False
+Dancer: 352, False
+second: 308
+Comet: 420, False
+Dancer: 352, False
+second: 309
+Comet: 420, False
+Dancer: 352, False
+second: 310
+Comet: 420, False
+Dancer: 352, False
+second: 311
+Comet: 420, False
+Dancer: 352, False
+second: 312
+Comet: 420, False
+Dancer: 352, False
+second: 313
+Comet: 420, False
+Dancer: 352, False
+second: 314
+Comet: 420, False
+Dancer: 352, False
+second: 315
+Comet: 420, False
+Dancer: 352, False
+second: 316
+Comet: 420, False
+Dancer: 352, False
+second: 317
+Comet: 420, False
+Dancer: 352, False
+second: 318
+Comet: 420, False
+Dancer: 352, False
+second: 319
+Comet: 420, False
+Dancer: 352, False
+second: 320
+Comet: 420, False
+Dancer: 352, False
+second: 321
+Comet: 420, False
+Dancer: 352, False
+second: 322
+Comet: 420, False
+Dancer: 352, False
+second: 323
+Comet: 420, False
+Dancer: 352, False
+second: 324
+Comet: 420, False
+Dancer: 352, False
+second: 325
+Comet: 420, False
+Dancer: 352, False
+second: 326
+Comet: 420, False
+Dancer: 352, False
+second: 327
+Comet: 420, False
+Dancer: 352, False
+second: 328
+Comet: 420, False
+Dancer: 352, False
+second: 329
+Comet: 420, False
+Dancer: 352, False
+second: 330
+Comet: 420, False
+Dancer: 352, False
+second: 331
+Comet: 420, False
+Dancer: 352, False
+second: 332
+Comet: 420, False
+Dancer: 352, False
+second: 333
+Comet: 420, False
+Dancer: 352, False
+second: 334
+Comet: 420, False
+Dancer: 352, False
+second: 335
+Comet: 420, False
+Dancer: 352, False
+second: 336
+Comet: 420, False
+Dancer: 352, False
+second: 337
+Comet: 420, False
+Dancer: 352, False
+second: 338
+Comet: 420, False
+Dancer: 352, False
+second: 339
+Comet: 420, False
+Dancer: 352, False
+second: 340
+Comet: 420, False
+Dancer: 352, False
+second: 341
+Comet: 420, False
+Dancer: 352, False
+second: 342
+Comet: 420, False
+Dancer: 352, False
+second: 343
+Comet: 420, False
+Dancer: 352, False
+second: 344
+Comet: 420, False
+Dancer: 352, False
+second: 345
+Comet: 420, False
+Dancer: 352, False
+second: 346
+Comet: 420, False
+Dancer: 352, False
+second: 347
+Comet: 420, False
+Dancer: 368, True
+second: 348
+Comet: 420, False
+Dancer: 384, True
+second: 349
+Comet: 420, False
+Dancer: 400, True
+second: 350
+Comet: 420, False
+Dancer: 416, True
+second: 351
+Comet: 420, False
+Dancer: 432, True
+second: 352
+Comet: 420, False
+Dancer: 448, True
+second: 353
+Comet: 420, False
+Dancer: 464, True
+second: 354
+Comet: 420, False
+Dancer: 480, True
+second: 355
+Comet: 420, False
+Dancer: 496, True
+second: 356
+Comet: 420, False
+Dancer: 512, True
+second: 357
+Comet: 420, False
+Dancer: 528, True
+second: 358
+Comet: 420, False
+Dancer: 528, False
+second: 359
+Comet: 420, False
+Dancer: 528, False
+second: 360
+Comet: 420, False
+Dancer: 528, False
+second: 361
+Comet: 420, False
+Dancer: 528, False
+second: 362
+Comet: 420, False
+Dancer: 528, False
+second: 363
+Comet: 420, False
+Dancer: 528, False
+second: 364
+Comet: 420, False
+Dancer: 528, False
+second: 365
+Comet: 420, False
+Dancer: 528, False
+second: 366
+Comet: 420, False
+Dancer: 528, False
+second: 367
+Comet: 420, False
+Dancer: 528, False
+second: 368
+Comet: 420, False
+Dancer: 528, False
+second: 369
+Comet: 420, False
+Dancer: 528, False
+second: 370
+Comet: 420, False
+Dancer: 528, False
+second: 371
+Comet: 420, False
+Dancer: 528, False
+second: 372
+Comet: 420, False
+Dancer: 528, False
+second: 373
+Comet: 420, False
+Dancer: 528, False
+second: 374
+Comet: 420, False
+Dancer: 528, False
+second: 375
+Comet: 420, False
+Dancer: 528, False
+second: 376
+Comet: 420, False
+Dancer: 528, False
+second: 377
+Comet: 420, False
+Dancer: 528, False
+second: 378
+Comet: 420, False
+Dancer: 528, False
+second: 379
+Comet: 420, False
+Dancer: 528, False
+second: 380
+Comet: 420, False
+Dancer: 528, False
+second: 381
+Comet: 420, False
+Dancer: 528, False
+second: 382
+Comet: 420, False
+Dancer: 528, False
+second: 383
+Comet: 420, False
+Dancer: 528, False
+second: 384
+Comet: 420, False
+Dancer: 528, False
+second: 385
+Comet: 420, False
+Dancer: 528, False
+second: 386
+Comet: 420, False
+Dancer: 528, False
+second: 387
+Comet: 420, False
+Dancer: 528, False
+second: 388
+Comet: 420, False
+Dancer: 528, False
+second: 389
+Comet: 420, False
+Dancer: 528, False
+second: 390
+Comet: 420, False
+Dancer: 528, False
+second: 391
+Comet: 420, False
+Dancer: 528, False
+second: 392
+Comet: 420, False
+Dancer: 528, False
+second: 393
+Comet: 420, False
+Dancer: 528, False
+second: 394
+Comet: 420, False
+Dancer: 528, False
+second: 395
+Comet: 420, False
+Dancer: 528, False
+second: 396
+Comet: 420, False
+Dancer: 528, False
+second: 397
+Comet: 420, False
+Dancer: 528, False
+second: 398
+Comet: 420, False
+Dancer: 528, False
+second: 399
+Comet: 420, False
+Dancer: 528, False
+second: 400
+Comet: 420, False
+Dancer: 528, False
+second: 401
+Comet: 420, False
+Dancer: 528, False
+second: 402
+Comet: 420, False
+Dancer: 528, False
+second: 403
+Comet: 420, False
+Dancer: 528, False
+second: 404
+Comet: 420, False
+Dancer: 528, False
+second: 405
+Comet: 420, False
+Dancer: 528, False
+second: 406
+Comet: 420, False
+Dancer: 528, False
+second: 407
+Comet: 420, False
+Dancer: 528, False
+second: 408
+Comet: 420, False
+Dancer: 528, False
+second: 409
+Comet: 420, False
+Dancer: 528, False
+second: 410
+Comet: 420, False
+Dancer: 528, False
+second: 411
+Comet: 420, False
+Dancer: 528, False
+second: 412
+Comet: 434, True
+Dancer: 528, False
+second: 413
+Comet: 448, True
+Dancer: 528, False
+second: 414
+Comet: 462, True
+Dancer: 528, False
+second: 415
+Comet: 476, True
+Dancer: 528, False
+second: 416
+Comet: 490, True
+Dancer: 528, False
+second: 417
+Comet: 504, True
+Dancer: 528, False
+second: 418
+Comet: 518, True
+Dancer: 528, False
+second: 419
+Comet: 532, True
+Dancer: 528, False
+second: 420
+Comet: 546, True
+Dancer: 528, False
+second: 421
+Comet: 560, True
+Dancer: 528, False
+second: 422
+Comet: 560, False
+Dancer: 528, False
+second: 423
+Comet: 560, False
+Dancer: 528, False
+second: 424
+Comet: 560, False
+Dancer: 528, False
+second: 425
+Comet: 560, False
+Dancer: 528, False
+second: 426
+Comet: 560, False
+Dancer: 528, False
+second: 427
+Comet: 560, False
+Dancer: 528, False
+second: 428
+Comet: 560, False
+Dancer: 528, False
+second: 429
+Comet: 560, False
+Dancer: 528, False
+second: 430
+Comet: 560, False
+Dancer: 528, False
+second: 431
+Comet: 560, False
+Dancer: 528, False
+second: 432
+Comet: 560, False
+Dancer: 528, False
+second: 433
+Comet: 560, False
+Dancer: 528, False
+second: 434
+Comet: 560, False
+Dancer: 528, False
+second: 435
+Comet: 560, False
+Dancer: 528, False
+second: 436
+Comet: 560, False
+Dancer: 528, False
+second: 437
+Comet: 560, False
+Dancer: 528, False
+second: 438
+Comet: 560, False
+Dancer: 528, False
+second: 439
+Comet: 560, False
+Dancer: 528, False
+second: 440
+Comet: 560, False
+Dancer: 528, False
+second: 441
+Comet: 560, False
+Dancer: 528, False
+second: 442
+Comet: 560, False
+Dancer: 528, False
+second: 443
+Comet: 560, False
+Dancer: 528, False
+second: 444
+Comet: 560, False
+Dancer: 528, False
+second: 445
+Comet: 560, False
+Dancer: 528, False
+second: 446
+Comet: 560, False
+Dancer: 528, False
+second: 447
+Comet: 560, False
+Dancer: 528, False
+second: 448
+Comet: 560, False
+Dancer: 528, False
+second: 449
+Comet: 560, False
+Dancer: 528, False
+second: 450
+Comet: 560, False
+Dancer: 528, False
+second: 451
+Comet: 560, False
+Dancer: 528, False
+second: 452
+Comet: 560, False
+Dancer: 528, False
+second: 453
+Comet: 560, False
+Dancer: 528, False
+second: 454
+Comet: 560, False
+Dancer: 528, False
+second: 455
+Comet: 560, False
+Dancer: 528, False
+second: 456
+Comet: 560, False
+Dancer: 528, False
+second: 457
+Comet: 560, False
+Dancer: 528, False
+second: 458
+Comet: 560, False
+Dancer: 528, False
+second: 459
+Comet: 560, False
+Dancer: 528, False
+second: 460
+Comet: 560, False
+Dancer: 528, False
+second: 461
+Comet: 560, False
+Dancer: 528, False
+second: 462
+Comet: 560, False
+Dancer: 528, False
+second: 463
+Comet: 560, False
+Dancer: 528, False
+second: 464
+Comet: 560, False
+Dancer: 528, False
+second: 465
+Comet: 560, False
+Dancer: 528, False
+second: 466
+Comet: 560, False
+Dancer: 528, False
+second: 467
+Comet: 560, False
+Dancer: 528, False
+second: 468
+Comet: 560, False
+Dancer: 528, False
+second: 469
+Comet: 560, False
+Dancer: 528, False
+second: 470
+Comet: 560, False
+Dancer: 528, False
+second: 471
+Comet: 560, False
+Dancer: 528, False
+second: 472
+Comet: 560, False
+Dancer: 528, False
+second: 473
+Comet: 560, False
+Dancer: 528, False
+second: 474
+Comet: 560, False
+Dancer: 528, False
+second: 475
+Comet: 560, False
+Dancer: 528, False
+second: 476
+Comet: 560, False
+Dancer: 528, False
+second: 477
+Comet: 560, False
+Dancer: 528, False
+second: 478
+Comet: 560, False
+Dancer: 528, False
+second: 479
+Comet: 560, False
+Dancer: 528, False
+second: 480
+Comet: 560, False
+Dancer: 528, False
+second: 481
+Comet: 560, False
+Dancer: 528, False
+second: 482
+Comet: 560, False
+Dancer: 528, False
+second: 483
+Comet: 560, False
+Dancer: 528, False
+second: 484
+Comet: 560, False
+Dancer: 528, False
+second: 485
+Comet: 560, False
+Dancer: 528, False
+second: 486
+Comet: 560, False
+Dancer: 528, False
+second: 487
+Comet: 560, False
+Dancer: 528, False
+second: 488
+Comet: 560, False
+Dancer: 528, False
+second: 489
+Comet: 560, False
+Dancer: 528, False
+second: 490
+Comet: 560, False
+Dancer: 528, False
+second: 491
+Comet: 560, False
+Dancer: 528, False
+second: 492
+Comet: 560, False
+Dancer: 528, False
+second: 493
+Comet: 560, False
+Dancer: 528, False
+second: 494
+Comet: 560, False
+Dancer: 528, False
+second: 495
+Comet: 560, False
+Dancer: 528, False
+second: 496
+Comet: 560, False
+Dancer: 528, False
+second: 497
+Comet: 560, False
+Dancer: 528, False
+second: 498
+Comet: 560, False
+Dancer: 528, False
+second: 499
+Comet: 560, False
+Dancer: 528, False
+second: 500
+Comet: 560, False
+Dancer: 528, False
+second: 501
+Comet: 560, False
+Dancer: 528, False
+second: 502
+Comet: 560, False
+Dancer: 528, False
+second: 503
+Comet: 560, False
+Dancer: 528, False
+second: 504
+Comet: 560, False
+Dancer: 528, False
+second: 505
+Comet: 560, False
+Dancer: 528, False
+second: 506
+Comet: 560, False
+Dancer: 528, False
+second: 507
+Comet: 560, False
+Dancer: 528, False
+second: 508
+Comet: 560, False
+Dancer: 528, False
+second: 509
+Comet: 560, False
+Dancer: 528, False
+second: 510
+Comet: 560, False
+Dancer: 528, False
+second: 511
+Comet: 560, False
+Dancer: 528, False
+second: 512
+Comet: 560, False
+Dancer: 528, False
+second: 513
+Comet: 560, False
+Dancer: 528, False
+second: 514
+Comet: 560, False
+Dancer: 528, False
+second: 515
+Comet: 560, False
+Dancer: 528, False
+second: 516
+Comet: 560, False
+Dancer: 528, False
+second: 517
+Comet: 560, False
+Dancer: 528, False
+second: 518
+Comet: 560, False
+Dancer: 528, False
+second: 519
+Comet: 560, False
+Dancer: 528, False
+second: 520
+Comet: 560, False
+Dancer: 544, True
+second: 521
+Comet: 560, False
+Dancer: 560, True
+second: 522
+Comet: 560, False
+Dancer: 576, True
+second: 523
+Comet: 560, False
+Dancer: 592, True
+second: 524
+Comet: 560, False
+Dancer: 608, True
+second: 525
+Comet: 560, False
+Dancer: 624, True
+second: 526
+Comet: 560, False
+Dancer: 640, True
+second: 527
+Comet: 560, False
+Dancer: 656, True
+second: 528
+Comet: 560, False
+Dancer: 672, True
+second: 529
+Comet: 560, False
+Dancer: 688, True
+second: 530
+Comet: 560, False
+Dancer: 704, True
+second: 531
+Comet: 560, False
+Dancer: 704, False
+second: 532
+Comet: 560, False
+Dancer: 704, False
+second: 533
+Comet: 560, False
+Dancer: 704, False
+second: 534
+Comet: 560, False
+Dancer: 704, False
+second: 535
+Comet: 560, False
+Dancer: 704, False
+second: 536
+Comet: 560, False
+Dancer: 704, False
+second: 537
+Comet: 560, False
+Dancer: 704, False
+second: 538
+Comet: 560, False
+Dancer: 704, False
+second: 539
+Comet: 560, False
+Dancer: 704, False
+second: 540
+Comet: 560, False
+Dancer: 704, False
+second: 541
+Comet: 560, False
+Dancer: 704, False
+second: 542
+Comet: 560, False
+Dancer: 704, False
+second: 543
+Comet: 560, False
+Dancer: 704, False
+second: 544
+Comet: 560, False
+Dancer: 704, False
+second: 545
+Comet: 560, False
+Dancer: 704, False
+second: 546
+Comet: 560, False
+Dancer: 704, False
+second: 547
+Comet: 560, False
+Dancer: 704, False
+second: 548
+Comet: 560, False
+Dancer: 704, False
+second: 549
+Comet: 574, True
+Dancer: 704, False
+second: 550
+Comet: 588, True
+Dancer: 704, False
+second: 551
+Comet: 602, True
+Dancer: 704, False
+second: 552
+Comet: 616, True
+Dancer: 704, False
+second: 553
+Comet: 630, True
+Dancer: 704, False
+second: 554
+Comet: 644, True
+Dancer: 704, False
+second: 555
+Comet: 658, True
+Dancer: 704, False
+second: 556
+Comet: 672, True
+Dancer: 704, False
+second: 557
+Comet: 686, True
+Dancer: 704, False
+second: 558
+Comet: 700, True
+Dancer: 704, False
+second: 559
+Comet: 700, False
+Dancer: 704, False
+second: 560
+Comet: 700, False
+Dancer: 704, False
+second: 561
+Comet: 700, False
+Dancer: 704, False
+second: 562
+Comet: 700, False
+Dancer: 704, False
+second: 563
+Comet: 700, False
+Dancer: 704, False
+second: 564
+Comet: 700, False
+Dancer: 704, False
+second: 565
+Comet: 700, False
+Dancer: 704, False
+second: 566
+Comet: 700, False
+Dancer: 704, False
+second: 567
+Comet: 700, False
+Dancer: 704, False
+second: 568
+Comet: 700, False
+Dancer: 704, False
+second: 569
+Comet: 700, False
+Dancer: 704, False
+second: 570
+Comet: 700, False
+Dancer: 704, False
+second: 571
+Comet: 700, False
+Dancer: 704, False
+second: 572
+Comet: 700, False
+Dancer: 704, False
+second: 573
+Comet: 700, False
+Dancer: 704, False
+second: 574
+Comet: 700, False
+Dancer: 704, False
+second: 575
+Comet: 700, False
+Dancer: 704, False
+second: 576
+Comet: 700, False
+Dancer: 704, False
+second: 577
+Comet: 700, False
+Dancer: 704, False
+second: 578
+Comet: 700, False
+Dancer: 704, False
+second: 579
+Comet: 700, False
+Dancer: 704, False
+second: 580
+Comet: 700, False
+Dancer: 704, False
+second: 581
+Comet: 700, False
+Dancer: 704, False
+second: 582
+Comet: 700, False
+Dancer: 704, False
+second: 583
+Comet: 700, False
+Dancer: 704, False
+second: 584
+Comet: 700, False
+Dancer: 704, False
+second: 585
+Comet: 700, False
+Dancer: 704, False
+second: 586
+Comet: 700, False
+Dancer: 704, False
+second: 587
+Comet: 700, False
+Dancer: 704, False
+second: 588
+Comet: 700, False
+Dancer: 704, False
+second: 589
+Comet: 700, False
+Dancer: 704, False
+second: 590
+Comet: 700, False
+Dancer: 704, False
+second: 591
+Comet: 700, False
+Dancer: 704, False
+second: 592
+Comet: 700, False
+Dancer: 704, False
+second: 593
+Comet: 700, False
+Dancer: 704, False
+second: 594
+Comet: 700, False
+Dancer: 704, False
+second: 595
+Comet: 700, False
+Dancer: 704, False
+second: 596
+Comet: 700, False
+Dancer: 704, False
+second: 597
+Comet: 700, False
+Dancer: 704, False
+second: 598
+Comet: 700, False
+Dancer: 704, False
+second: 599
+Comet: 700, False
+Dancer: 704, False
+second: 600
+Comet: 700, False
+Dancer: 704, False
+second: 601
+Comet: 700, False
+Dancer: 704, False
+second: 602
+Comet: 700, False
+Dancer: 704, False
+second: 603
+Comet: 700, False
+Dancer: 704, False
+second: 604
+Comet: 700, False
+Dancer: 704, False
+second: 605
+Comet: 700, False
+Dancer: 704, False
+second: 606
+Comet: 700, False
+Dancer: 704, False
+second: 607
+Comet: 700, False
+Dancer: 704, False
+second: 608
+Comet: 700, False
+Dancer: 704, False
+second: 609
+Comet: 700, False
+Dancer: 704, False
+second: 610
+Comet: 700, False
+Dancer: 704, False
+second: 611
+Comet: 700, False
+Dancer: 704, False
+second: 612
+Comet: 700, False
+Dancer: 704, False
+second: 613
+Comet: 700, False
+Dancer: 704, False
+second: 614
+Comet: 700, False
+Dancer: 704, False
+second: 615
+Comet: 700, False
+Dancer: 704, False
+second: 616
+Comet: 700, False
+Dancer: 704, False
+second: 617
+Comet: 700, False
+Dancer: 704, False
+second: 618
+Comet: 700, False
+Dancer: 704, False
+second: 619
+Comet: 700, False
+Dancer: 704, False
+second: 620
+Comet: 700, False
+Dancer: 704, False
+second: 621
+Comet: 700, False
+Dancer: 704, False
+second: 622
+Comet: 700, False
+Dancer: 704, False
+second: 623
+Comet: 700, False
+Dancer: 704, False
+second: 624
+Comet: 700, False
+Dancer: 704, False
+second: 625
+Comet: 700, False
+Dancer: 704, False
+second: 626
+Comet: 700, False
+Dancer: 704, False
+second: 627
+Comet: 700, False
+Dancer: 704, False
+second: 628
+Comet: 700, False
+Dancer: 704, False
+second: 629
+Comet: 700, False
+Dancer: 704, False
+second: 630
+Comet: 700, False
+Dancer: 704, False
+second: 631
+Comet: 700, False
+Dancer: 704, False
+second: 632
+Comet: 700, False
+Dancer: 704, False
+second: 633
+Comet: 700, False
+Dancer: 704, False
+second: 634
+Comet: 700, False
+Dancer: 704, False
+second: 635
+Comet: 700, False
+Dancer: 704, False
+second: 636
+Comet: 700, False
+Dancer: 704, False
+second: 637
+Comet: 700, False
+Dancer: 704, False
+second: 638
+Comet: 700, False
+Dancer: 704, False
+second: 639
+Comet: 700, False
+Dancer: 704, False
+second: 640
+Comet: 700, False
+Dancer: 704, False
+second: 641
+Comet: 700, False
+Dancer: 704, False
+second: 642
+Comet: 700, False
+Dancer: 704, False
+second: 643
+Comet: 700, False
+Dancer: 704, False
+second: 644
+Comet: 700, False
+Dancer: 704, False
+second: 645
+Comet: 700, False
+Dancer: 704, False
+second: 646
+Comet: 700, False
+Dancer: 704, False
+second: 647
+Comet: 700, False
+Dancer: 704, False
+second: 648
+Comet: 700, False
+Dancer: 704, False
+second: 649
+Comet: 700, False
+Dancer: 704, False
+second: 650
+Comet: 700, False
+Dancer: 704, False
+second: 651
+Comet: 700, False
+Dancer: 704, False
+second: 652
+Comet: 700, False
+Dancer: 704, False
+second: 653
+Comet: 700, False
+Dancer: 704, False
+second: 654
+Comet: 700, False
+Dancer: 704, False
+second: 655
+Comet: 700, False
+Dancer: 704, False
+second: 656
+Comet: 700, False
+Dancer: 704, False
+second: 657
+Comet: 700, False
+Dancer: 704, False
+second: 658
+Comet: 700, False
+Dancer: 704, False
+second: 659
+Comet: 700, False
+Dancer: 704, False
+second: 660
+Comet: 700, False
+Dancer: 704, False
+second: 661
+Comet: 700, False
+Dancer: 704, False
+second: 662
+Comet: 700, False
+Dancer: 704, False
+second: 663
+Comet: 700, False
+Dancer: 704, False
+second: 664
+Comet: 700, False
+Dancer: 704, False
+second: 665
+Comet: 700, False
+Dancer: 704, False
+second: 666
+Comet: 700, False
+Dancer: 704, False
+second: 667
+Comet: 700, False
+Dancer: 704, False
+second: 668
+Comet: 700, False
+Dancer: 704, False
+second: 669
+Comet: 700, False
+Dancer: 704, False
+second: 670
+Comet: 700, False
+Dancer: 704, False
+second: 671
+Comet: 700, False
+Dancer: 704, False
+second: 672
+Comet: 700, False
+Dancer: 704, False
+second: 673
+Comet: 700, False
+Dancer: 704, False
+second: 674
+Comet: 700, False
+Dancer: 704, False
+second: 675
+Comet: 700, False
+Dancer: 704, False
+second: 676
+Comet: 700, False
+Dancer: 704, False
+second: 677
+Comet: 700, False
+Dancer: 704, False
+second: 678
+Comet: 700, False
+Dancer: 704, False
+second: 679
+Comet: 700, False
+Dancer: 704, False
+second: 680
+Comet: 700, False
+Dancer: 704, False
+second: 681
+Comet: 700, False
+Dancer: 704, False
+second: 682
+Comet: 700, False
+Dancer: 704, False
+second: 683
+Comet: 700, False
+Dancer: 704, False
+second: 684
+Comet: 700, False
+Dancer: 704, False
+second: 685
+Comet: 700, False
+Dancer: 704, False
+second: 686
+Comet: 714, True
+Dancer: 704, False
+second: 687
+Comet: 728, True
+Dancer: 704, False
+second: 688
+Comet: 742, True
+Dancer: 704, False
+second: 689
+Comet: 756, True
+Dancer: 704, False
+second: 690
+Comet: 770, True
+Dancer: 704, False
+second: 691
+Comet: 784, True
+Dancer: 704, False
+second: 692
+Comet: 798, True
+Dancer: 704, False
+second: 693
+Comet: 812, True
+Dancer: 720, True
+second: 694
+Comet: 826, True
+Dancer: 736, True
+second: 695
+Comet: 840, True
+Dancer: 752, True
+second: 696
+Comet: 840, False
+Dancer: 768, True
+second: 697
+Comet: 840, False
+Dancer: 784, True
+second: 698
+Comet: 840, False
+Dancer: 800, True
+second: 699
+Comet: 840, False
+Dancer: 816, True
+second: 700
+Comet: 840, False
+Dancer: 832, True
+second: 701
+Comet: 840, False
+Dancer: 848, True
+second: 702
+Comet: 840, False
+Dancer: 864, True
+second: 703
+Comet: 840, False
+Dancer: 880, True
+second: 704
+Comet: 840, False
+Dancer: 880, False
+second: 705
+Comet: 840, False
+Dancer: 880, False
+second: 706
+Comet: 840, False
+Dancer: 880, False
+second: 707
+Comet: 840, False
+Dancer: 880, False
+second: 708
+Comet: 840, False
+Dancer: 880, False
+second: 709
+Comet: 840, False
+Dancer: 880, False
+second: 710
+Comet: 840, False
+Dancer: 880, False
+second: 711
+Comet: 840, False
+Dancer: 880, False
+second: 712
+Comet: 840, False
+Dancer: 880, False
+second: 713
+Comet: 840, False
+Dancer: 880, False
+second: 714
+Comet: 840, False
+Dancer: 880, False
+second: 715
+Comet: 840, False
+Dancer: 880, False
+second: 716
+Comet: 840, False
+Dancer: 880, False
+second: 717
+Comet: 840, False
+Dancer: 880, False
+second: 718
+Comet: 840, False
+Dancer: 880, False
+second: 719
+Comet: 840, False
+Dancer: 880, False
+second: 720
+Comet: 840, False
+Dancer: 880, False
+second: 721
+Comet: 840, False
+Dancer: 880, False
+second: 722
+Comet: 840, False
+Dancer: 880, False
+second: 723
+Comet: 840, False
+Dancer: 880, False
+second: 724
+Comet: 840, False
+Dancer: 880, False
+second: 725
+Comet: 840, False
+Dancer: 880, False
+second: 726
+Comet: 840, False
+Dancer: 880, False
+second: 727
+Comet: 840, False
+Dancer: 880, False
+second: 728
+Comet: 840, False
+Dancer: 880, False
+second: 729
+Comet: 840, False
+Dancer: 880, False
+second: 730
+Comet: 840, False
+Dancer: 880, False
+second: 731
+Comet: 840, False
+Dancer: 880, False
+second: 732
+Comet: 840, False
+Dancer: 880, False
+second: 733
+Comet: 840, False
+Dancer: 880, False
+second: 734
+Comet: 840, False
+Dancer: 880, False
+second: 735
+Comet: 840, False
+Dancer: 880, False
+second: 736
+Comet: 840, False
+Dancer: 880, False
+second: 737
+Comet: 840, False
+Dancer: 880, False
+second: 738
+Comet: 840, False
+Dancer: 880, False
+second: 739
+Comet: 840, False
+Dancer: 880, False
+second: 740
+Comet: 840, False
+Dancer: 880, False
+second: 741
+Comet: 840, False
+Dancer: 880, False
+second: 742
+Comet: 840, False
+Dancer: 880, False
+second: 743
+Comet: 840, False
+Dancer: 880, False
+second: 744
+Comet: 840, False
+Dancer: 880, False
+second: 745
+Comet: 840, False
+Dancer: 880, False
+second: 746
+Comet: 840, False
+Dancer: 880, False
+second: 747
+Comet: 840, False
+Dancer: 880, False
+second: 748
+Comet: 840, False
+Dancer: 880, False
+second: 749
+Comet: 840, False
+Dancer: 880, False
+second: 750
+Comet: 840, False
+Dancer: 880, False
+second: 751
+Comet: 840, False
+Dancer: 880, False
+second: 752
+Comet: 840, False
+Dancer: 880, False
+second: 753
+Comet: 840, False
+Dancer: 880, False
+second: 754
+Comet: 840, False
+Dancer: 880, False
+second: 755
+Comet: 840, False
+Dancer: 880, False
+second: 756
+Comet: 840, False
+Dancer: 880, False
+second: 757
+Comet: 840, False
+Dancer: 880, False
+second: 758
+Comet: 840, False
+Dancer: 880, False
+second: 759
+Comet: 840, False
+Dancer: 880, False
+second: 760
+Comet: 840, False
+Dancer: 880, False
+second: 761
+Comet: 840, False
+Dancer: 880, False
+second: 762
+Comet: 840, False
+Dancer: 880, False
+second: 763
+Comet: 840, False
+Dancer: 880, False
+second: 764
+Comet: 840, False
+Dancer: 880, False
+second: 765
+Comet: 840, False
+Dancer: 880, False
+second: 766
+Comet: 840, False
+Dancer: 880, False
+second: 767
+Comet: 840, False
+Dancer: 880, False
+second: 768
+Comet: 840, False
+Dancer: 880, False
+second: 769
+Comet: 840, False
+Dancer: 880, False
+second: 770
+Comet: 840, False
+Dancer: 880, False
+second: 771
+Comet: 840, False
+Dancer: 880, False
+second: 772
+Comet: 840, False
+Dancer: 880, False
+second: 773
+Comet: 840, False
+Dancer: 880, False
+second: 774
+Comet: 840, False
+Dancer: 880, False
+second: 775
+Comet: 840, False
+Dancer: 880, False
+second: 776
+Comet: 840, False
+Dancer: 880, False
+second: 777
+Comet: 840, False
+Dancer: 880, False
+second: 778
+Comet: 840, False
+Dancer: 880, False
+second: 779
+Comet: 840, False
+Dancer: 880, False
+second: 780
+Comet: 840, False
+Dancer: 880, False
+second: 781
+Comet: 840, False
+Dancer: 880, False
+second: 782
+Comet: 840, False
+Dancer: 880, False
+second: 783
+Comet: 840, False
+Dancer: 880, False
+second: 784
+Comet: 840, False
+Dancer: 880, False
+second: 785
+Comet: 840, False
+Dancer: 880, False
+second: 786
+Comet: 840, False
+Dancer: 880, False
+second: 787
+Comet: 840, False
+Dancer: 880, False
+second: 788
+Comet: 840, False
+Dancer: 880, False
+second: 789
+Comet: 840, False
+Dancer: 880, False
+second: 790
+Comet: 840, False
+Dancer: 880, False
+second: 791
+Comet: 840, False
+Dancer: 880, False
+second: 792
+Comet: 840, False
+Dancer: 880, False
+second: 793
+Comet: 840, False
+Dancer: 880, False
+second: 794
+Comet: 840, False
+Dancer: 880, False
+second: 795
+Comet: 840, False
+Dancer: 880, False
+second: 796
+Comet: 840, False
+Dancer: 880, False
+second: 797
+Comet: 840, False
+Dancer: 880, False
+second: 798
+Comet: 840, False
+Dancer: 880, False
+second: 799
+Comet: 840, False
+Dancer: 880, False
+second: 800
+Comet: 840, False
+Dancer: 880, False
+second: 801
+Comet: 840, False
+Dancer: 880, False
+second: 802
+Comet: 840, False
+Dancer: 880, False
+second: 803
+Comet: 840, False
+Dancer: 880, False
+second: 804
+Comet: 840, False
+Dancer: 880, False
+second: 805
+Comet: 840, False
+Dancer: 880, False
+second: 806
+Comet: 840, False
+Dancer: 880, False
+second: 807
+Comet: 840, False
+Dancer: 880, False
+second: 808
+Comet: 840, False
+Dancer: 880, False
+second: 809
+Comet: 840, False
+Dancer: 880, False
+second: 810
+Comet: 840, False
+Dancer: 880, False
+second: 811
+Comet: 840, False
+Dancer: 880, False
+second: 812
+Comet: 840, False
+Dancer: 880, False
+second: 813
+Comet: 840, False
+Dancer: 880, False
+second: 814
+Comet: 840, False
+Dancer: 880, False
+second: 815
+Comet: 840, False
+Dancer: 880, False
+second: 816
+Comet: 840, False
+Dancer: 880, False
+second: 817
+Comet: 840, False
+Dancer: 880, False
+second: 818
+Comet: 840, False
+Dancer: 880, False
+second: 819
+Comet: 840, False
+Dancer: 880, False
+second: 820
+Comet: 840, False
+Dancer: 880, False
+second: 821
+Comet: 840, False
+Dancer: 880, False
+second: 822
+Comet: 840, False
+Dancer: 880, False
+second: 823
+Comet: 854, True
+Dancer: 880, False
+second: 824
+Comet: 868, True
+Dancer: 880, False
+second: 825
+Comet: 882, True
+Dancer: 880, False
+second: 826
+Comet: 896, True
+Dancer: 880, False
+second: 827
+Comet: 910, True
+Dancer: 880, False
+second: 828
+Comet: 924, True
+Dancer: 880, False
+second: 829
+Comet: 938, True
+Dancer: 880, False
+second: 830
+Comet: 952, True
+Dancer: 880, False
+second: 831
+Comet: 966, True
+Dancer: 880, False
+second: 832
+Comet: 980, True
+Dancer: 880, False
+second: 833
+Comet: 980, False
+Dancer: 880, False
+second: 834
+Comet: 980, False
+Dancer: 880, False
+second: 835
+Comet: 980, False
+Dancer: 880, False
+second: 836
+Comet: 980, False
+Dancer: 880, False
+second: 837
+Comet: 980, False
+Dancer: 880, False
+second: 838
+Comet: 980, False
+Dancer: 880, False
+second: 839
+Comet: 980, False
+Dancer: 880, False
+second: 840
+Comet: 980, False
+Dancer: 880, False
+second: 841
+Comet: 980, False
+Dancer: 880, False
+second: 842
+Comet: 980, False
+Dancer: 880, False
+second: 843
+Comet: 980, False
+Dancer: 880, False
+second: 844
+Comet: 980, False
+Dancer: 880, False
+second: 845
+Comet: 980, False
+Dancer: 880, False
+second: 846
+Comet: 980, False
+Dancer: 880, False
+second: 847
+Comet: 980, False
+Dancer: 880, False
+second: 848
+Comet: 980, False
+Dancer: 880, False
+second: 849
+Comet: 980, False
+Dancer: 880, False
+second: 850
+Comet: 980, False
+Dancer: 880, False
+second: 851
+Comet: 980, False
+Dancer: 880, False
+second: 852
+Comet: 980, False
+Dancer: 880, False
+second: 853
+Comet: 980, False
+Dancer: 880, False
+second: 854
+Comet: 980, False
+Dancer: 880, False
+second: 855
+Comet: 980, False
+Dancer: 880, False
+second: 856
+Comet: 980, False
+Dancer: 880, False
+second: 857
+Comet: 980, False
+Dancer: 880, False
+second: 858
+Comet: 980, False
+Dancer: 880, False
+second: 859
+Comet: 980, False
+Dancer: 880, False
+second: 860
+Comet: 980, False
+Dancer: 880, False
+second: 861
+Comet: 980, False
+Dancer: 880, False
+second: 862
+Comet: 980, False
+Dancer: 880, False
+second: 863
+Comet: 980, False
+Dancer: 880, False
+second: 864
+Comet: 980, False
+Dancer: 880, False
+second: 865
+Comet: 980, False
+Dancer: 880, False
+second: 866
+Comet: 980, False
+Dancer: 896, True
+second: 867
+Comet: 980, False
+Dancer: 912, True
+second: 868
+Comet: 980, False
+Dancer: 928, True
+second: 869
+Comet: 980, False
+Dancer: 944, True
+second: 870
+Comet: 980, False
+Dancer: 960, True
+second: 871
+Comet: 980, False
+Dancer: 976, True
+second: 872
+Comet: 980, False
+Dancer: 992, True
+second: 873
+Comet: 980, False
+Dancer: 1008, True
+second: 874
+Comet: 980, False
+Dancer: 1024, True
+second: 875
+Comet: 980, False
+Dancer: 1040, True
+second: 876
+Comet: 980, False
+Dancer: 1056, True
+second: 877
+Comet: 980, False
+Dancer: 1056, False
+second: 878
+Comet: 980, False
+Dancer: 1056, False
+second: 879
+Comet: 980, False
+Dancer: 1056, False
+second: 880
+Comet: 980, False
+Dancer: 1056, False
+second: 881
+Comet: 980, False
+Dancer: 1056, False
+second: 882
+Comet: 980, False
+Dancer: 1056, False
+second: 883
+Comet: 980, False
+Dancer: 1056, False
+second: 884
+Comet: 980, False
+Dancer: 1056, False
+second: 885
+Comet: 980, False
+Dancer: 1056, False
+second: 886
+Comet: 980, False
+Dancer: 1056, False
+second: 887
+Comet: 980, False
+Dancer: 1056, False
+second: 888
+Comet: 980, False
+Dancer: 1056, False
+second: 889
+Comet: 980, False
+Dancer: 1056, False
+second: 890
+Comet: 980, False
+Dancer: 1056, False
+second: 891
+Comet: 980, False
+Dancer: 1056, False
+second: 892
+Comet: 980, False
+Dancer: 1056, False
+second: 893
+Comet: 980, False
+Dancer: 1056, False
+second: 894
+Comet: 980, False
+Dancer: 1056, False
+second: 895
+Comet: 980, False
+Dancer: 1056, False
+second: 896
+Comet: 980, False
+Dancer: 1056, False
+second: 897
+Comet: 980, False
+Dancer: 1056, False
+second: 898
+Comet: 980, False
+Dancer: 1056, False
+second: 899
+Comet: 980, False
+Dancer: 1056, False
+second: 900
+Comet: 980, False
+Dancer: 1056, False
+second: 901
+Comet: 980, False
+Dancer: 1056, False
+second: 902
+Comet: 980, False
+Dancer: 1056, False
+second: 903
+Comet: 980, False
+Dancer: 1056, False
+second: 904
+Comet: 980, False
+Dancer: 1056, False
+second: 905
+Comet: 980, False
+Dancer: 1056, False
+second: 906
+Comet: 980, False
+Dancer: 1056, False
+second: 907
+Comet: 980, False
+Dancer: 1056, False
+second: 908
+Comet: 980, False
+Dancer: 1056, False
+second: 909
+Comet: 980, False
+Dancer: 1056, False
+second: 910
+Comet: 980, False
+Dancer: 1056, False
+second: 911
+Comet: 980, False
+Dancer: 1056, False
+second: 912
+Comet: 980, False
+Dancer: 1056, False
+second: 913
+Comet: 980, False
+Dancer: 1056, False
+second: 914
+Comet: 980, False
+Dancer: 1056, False
+second: 915
+Comet: 980, False
+Dancer: 1056, False
+second: 916
+Comet: 980, False
+Dancer: 1056, False
+second: 917
+Comet: 980, False
+Dancer: 1056, False
+second: 918
+Comet: 980, False
+Dancer: 1056, False
+second: 919
+Comet: 980, False
+Dancer: 1056, False
+second: 920
+Comet: 980, False
+Dancer: 1056, False
+second: 921
+Comet: 980, False
+Dancer: 1056, False
+second: 922
+Comet: 980, False
+Dancer: 1056, False
+second: 923
+Comet: 980, False
+Dancer: 1056, False
+second: 924
+Comet: 980, False
+Dancer: 1056, False
+second: 925
+Comet: 980, False
+Dancer: 1056, False
+second: 926
+Comet: 980, False
+Dancer: 1056, False
+second: 927
+Comet: 980, False
+Dancer: 1056, False
+second: 928
+Comet: 980, False
+Dancer: 1056, False
+second: 929
+Comet: 980, False
+Dancer: 1056, False
+second: 930
+Comet: 980, False
+Dancer: 1056, False
+second: 931
+Comet: 980, False
+Dancer: 1056, False
+second: 932
+Comet: 980, False
+Dancer: 1056, False
+second: 933
+Comet: 980, False
+Dancer: 1056, False
+second: 934
+Comet: 980, False
+Dancer: 1056, False
+second: 935
+Comet: 980, False
+Dancer: 1056, False
+second: 936
+Comet: 980, False
+Dancer: 1056, False
+second: 937
+Comet: 980, False
+Dancer: 1056, False
+second: 938
+Comet: 980, False
+Dancer: 1056, False
+second: 939
+Comet: 980, False
+Dancer: 1056, False
+second: 940
+Comet: 980, False
+Dancer: 1056, False
+second: 941
+Comet: 980, False
+Dancer: 1056, False
+second: 942
+Comet: 980, False
+Dancer: 1056, False
+second: 943
+Comet: 980, False
+Dancer: 1056, False
+second: 944
+Comet: 980, False
+Dancer: 1056, False
+second: 945
+Comet: 980, False
+Dancer: 1056, False
+second: 946
+Comet: 980, False
+Dancer: 1056, False
+second: 947
+Comet: 980, False
+Dancer: 1056, False
+second: 948
+Comet: 980, False
+Dancer: 1056, False
+second: 949
+Comet: 980, False
+Dancer: 1056, False
+second: 950
+Comet: 980, False
+Dancer: 1056, False
+second: 951
+Comet: 980, False
+Dancer: 1056, False
+second: 952
+Comet: 980, False
+Dancer: 1056, False
+second: 953
+Comet: 980, False
+Dancer: 1056, False
+second: 954
+Comet: 980, False
+Dancer: 1056, False
+second: 955
+Comet: 980, False
+Dancer: 1056, False
+second: 956
+Comet: 980, False
+Dancer: 1056, False
+second: 957
+Comet: 980, False
+Dancer: 1056, False
+second: 958
+Comet: 980, False
+Dancer: 1056, False
+second: 959
+Comet: 980, False
+Dancer: 1056, False
+second: 960
+Comet: 994, True
+Dancer: 1056, False
+second: 961
+Comet: 1008, True
+Dancer: 1056, False
+second: 962
+Comet: 1022, True
+Dancer: 1056, False
+second: 963
+Comet: 1036, True
+Dancer: 1056, False
+second: 964
+Comet: 1050, True
+Dancer: 1056, False
+second: 965
+Comet: 1064, True
+Dancer: 1056, False
+second: 966
+Comet: 1078, True
+Dancer: 1056, False
+second: 967
+Comet: 1092, True
+Dancer: 1056, False
+second: 968
+Comet: 1106, True
+Dancer: 1056, False
+second: 969
+Comet: 1120, True
+Dancer: 1056, False
+second: 970
+Comet: 1120, False
+Dancer: 1056, False
+second: 971
+Comet: 1120, False
+Dancer: 1056, False
+second: 972
+Comet: 1120, False
+Dancer: 1056, False
+second: 973
+Comet: 1120, False
+Dancer: 1056, False
+second: 974
+Comet: 1120, False
+Dancer: 1056, False
+second: 975
+Comet: 1120, False
+Dancer: 1056, False
+second: 976
+Comet: 1120, False
+Dancer: 1056, False
+second: 977
+Comet: 1120, False
+Dancer: 1056, False
+second: 978
+Comet: 1120, False
+Dancer: 1056, False
+second: 979
+Comet: 1120, False
+Dancer: 1056, False
+second: 980
+Comet: 1120, False
+Dancer: 1056, False
+second: 981
+Comet: 1120, False
+Dancer: 1056, False
+second: 982
+Comet: 1120, False
+Dancer: 1056, False
+second: 983
+Comet: 1120, False
+Dancer: 1056, False
+second: 984
+Comet: 1120, False
+Dancer: 1056, False
+second: 985
+Comet: 1120, False
+Dancer: 1056, False
+second: 986
+Comet: 1120, False
+Dancer: 1056, False
+second: 987
+Comet: 1120, False
+Dancer: 1056, False
+second: 988
+Comet: 1120, False
+Dancer: 1056, False
+second: 989
+Comet: 1120, False
+Dancer: 1056, False
+second: 990
+Comet: 1120, False
+Dancer: 1056, False
+second: 991
+Comet: 1120, False
+Dancer: 1056, False
+second: 992
+Comet: 1120, False
+Dancer: 1056, False
+second: 993
+Comet: 1120, False
+Dancer: 1056, False
+second: 994
+Comet: 1120, False
+Dancer: 1056, False
+second: 995
+Comet: 1120, False
+Dancer: 1056, False
+second: 996
+Comet: 1120, False
+Dancer: 1056, False
+second: 997
+Comet: 1120, False
+Dancer: 1056, False
+second: 998
+Comet: 1120, False
+Dancer: 1056, False
+second: 999
+Comet: 1120, False
+Dancer: 1056, False
+second: 1000
+Comet: 1120, False
+Dancer: 1056, False

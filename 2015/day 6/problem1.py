@@ -1,61 +1,73 @@
-f=open('input.txt')
-dat=f.read()
-f.close()
+from typing import NamedTuple, TypeVar
 
-def toggle(grid, x1, y1, x2, y2):
-    for i in range(x1,x2+1):
-        for j in range(y1,y2+1):
-            grid[i][j] = grid[i][j] ^ True
+T = TypeVar('T')
+array = list[list[bool]]
 
-def turn_on(grid, x1, y1, x2, y2):
-    for i in range(x1,x2+1):
-        for j in range(y1,y2+1):
-            # print "Turning on lamp["+str(i)+"]["+str(j)+"]"
-            grid[i][j] = True
 
-def turn_off(grid, x1, y1, x2, y2):
-    for i in range(x1,x2+1):
-        for j in range(y1,y2+1):
-            grid[i][j] = False
+class InstructionMap(NamedTuple):
+    x1: int
+    y1: int
+    x2: int
+    y2: int
 
-# dat = "turn on 499,499 through 500,500"
-# dat = ""
-grid = [[False] * 1000 for i in range(1000)]
-lines = dat.splitlines()
 
-for i in range(len(lines)):
-    s = lines[i].split()
-    if s[0] == 'toggle':
-        one = s[1].split(',')
-        x1 = int(one[0])
-        y1 = int(one[1])
-        two = s[3].split(',')
-        x2 = int(two[0])
-        y2 = int(two[1])
-        toggle(grid, x1, y1, x2, y2)
-    else:
-        one = s[2].split(',')
-        two = s[4].split(',')
-        x1 = int(one[0])
-        x2 = int(two[0])
-        y1 = int(one[1])
-        y2 = int(two[1])
-        if s[1] == 'on':
-            turn_on(grid, x1,y1,x2,y2)
-        else:
-            turn_off(grid, x1,y1,x2,y2)
+def run_instruction(
+    grid: array, instruction: str, map: InstructionMap
+) -> array:
+    match instruction:
+        case 'toggle':
+            operation = toggle
+        case 'on':
+            operation = turn_on
+        case 'off':
+            operation = turn_off
+        case _:
+            raise NotImplementedError()
+    # print(grid)
+    for x in range(map.x1, map.x2 + 1):
+        for y in range(map.y1, map.y2 + 1):
+            grid[x][y] = operation(grid[x][y])
+    # print(grid)
+    return grid
 
-count = 0
-off = 0
 
-# print grid[500][499]
+def toggle(node: bool) -> bool:
+    return node ^ True
 
-for i in range(0,1000):
-    for j in range(0,1000):
-        if grid[i][j] == True:
-            count+=1
-        # else :
-        #     off+=1
 
-# print off
-print count
+def turn_on(node: bool) -> bool:
+    return node or True
+
+
+def turn_off(node: bool) -> bool:
+    return not (node or True)
+
+
+def parse_command(input: str) -> tuple[str, InstructionMap]:
+    command = input.lower().split(' ')
+    if 'turn' in command:
+        command.remove('turn')
+    command.remove('through')
+    instruction = command[0]
+    x1, y1 = command[1].split(',')
+    x2, y2 = command[2].split(',')
+    return instruction, InstructionMap(int(x1), int(y1), int(x2), int(y2))
+
+
+def main() -> None:
+    grid = [[False] * 1000 for _ in range(1000)]
+
+    with open('input.txt') as f:
+        for string in f.read().splitlines():
+            instruction, map = parse_command(string)
+            grid = run_instruction(grid, instruction, map)
+
+    active_lights = 0
+    for x in grid:
+        for y in x:
+            active_lights += y
+
+    print(f"The number of turned on ligths is {active_lights}")
+
+
+main()

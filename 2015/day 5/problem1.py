@@ -1,8 +1,5 @@
 VOWELS = 'aeiou'
 
-with open('input.txt') as f:
-    input_string = f.read()
-
 
 def is_nice(string: str) -> bool:
     return has_three_vowels(string) \
@@ -32,7 +29,8 @@ def has_special_substring(string: str) -> bool:
 
 
 nice_strings = 0
-for string in input_string.splitlines():
-    if is_nice(string):
-        nice_strings += 1
+with open('input.txt') as f:
+    for string in f.read().splitlines():
+        if is_nice(string):
+            nice_strings += 1
 print(f"Number of nice string is {nice_strings}")

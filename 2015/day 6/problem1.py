@@ -14,9 +14,8 @@ def turn_off(node: bool) -> bool:
 
 
 def main() -> None:
-    grid = [[False] * 1000 for _ in range(1000)]
     operator = Operator(
-        grid,
+        [[False] * 1000 for _ in range(1000)],
         {'toggle': toggle, 'turn_on': turn_on, 'turn_off': turn_off}
     )
 
